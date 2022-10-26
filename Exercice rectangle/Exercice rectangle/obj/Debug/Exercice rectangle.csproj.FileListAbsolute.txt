@@ -1,0 +1,8 @@
+H:\windows programming\Exercice rectangle\Exercice rectangle\bin\Debug\Exercice rectangle.exe.config
+H:\windows programming\Exercice rectangle\Exercice rectangle\bin\Debug\Exercice rectangle.exe
+H:\windows programming\Exercice rectangle\Exercice rectangle\bin\Debug\Exercice rectangle.pdb
+H:\windows programming\Exercice rectangle\Exercice rectangle\obj\Debug\Exercice rectangle.csproj.AssemblyReference.cache
+H:\windows programming\Exercice rectangle\Exercice rectangle\obj\Debug\Exercice rectangle.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Exercice rectangle\Exercice rectangle\obj\Debug\Exercice rectangle.csproj.CoreCompileInputs.cache
+H:\windows programming\Exercice rectangle\Exercice rectangle\obj\Debug\Exercice rectangle.exe
+H:\windows programming\Exercice rectangle\Exercice rectangle\obj\Debug\Exercice rectangle.pdb
